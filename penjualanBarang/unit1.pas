@@ -90,7 +90,7 @@ begin
 
   // Hitung subtotal
   subtotal := harga * qty;
-  ESubTotal.Text := IntToStr(subtotal);
+  ESubTotal.Text := FormatFloat('#,##0.00', SubTotal);
 
   // Hitung diskon
   if subtotal >= 100000 then
@@ -106,7 +106,7 @@ begin
 
   // Hitung total
   total := subtotal - (subtotal * diskon div 100);
-  ETotal.Text := IntToStr(total);
+  ETotal.Text := FormatFloat('#,##0.00', Total);
 
 end;
 
