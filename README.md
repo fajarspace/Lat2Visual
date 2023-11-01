@@ -9,7 +9,7 @@
 
 Hitung gaji pegawai dengan jabatan direktur dengan status tetap, \*berlaku juga untuk lainnya
 
-![output1](./img/1.png)
+![output1](./static/img/1.png)
 
 [Download](https://github.com/fajarspace/Lat2Visual/releases)
 
@@ -21,6 +21,6 @@ Hitung penjualan barang dengan ketentuan:
 - Quantity pembelian tidak boleh lebih dari 10.
 - Data yang dimasukan harus divalidasi.
 
-![output2](./img/2.png)
+![output2](./static/img/2.png)
 
 [Download](https://github.com/fajarspace/Lat2Visual/releases)
