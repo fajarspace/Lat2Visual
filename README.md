@@ -1,7 +1,8 @@
-| Nama | Fajar Agung Nugroho |
-| NIM | 312010448 |
-| Kelas | TI.20.A.RPL-1 |
-| Mata Kuliah | Pemrograman Visual |
+| Nama           | Fajar Agung Nugroho           |
+| -------------- | ----------------------------- |
+| NIM            | 312010448                     |
+| Kelas          | TI.20.A.RPL-1                 |
+| Mata Kuliah    | Pemrograman Visual            |
 | Dosen Pengampu | Agung Nugroho, S.Kom., M.Kom. |
 
 ## 1. Program Menghitung Gaji Karyawan
