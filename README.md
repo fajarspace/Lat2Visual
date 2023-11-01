@@ -11,4 +11,4 @@
 
 ![output1](./img/1.png)
 
-![Releases](https://github.com/fajarspace/Lat2Visual/releases)
+[Releases](https://github.com/fajarspace/Lat2Visual/releases)
